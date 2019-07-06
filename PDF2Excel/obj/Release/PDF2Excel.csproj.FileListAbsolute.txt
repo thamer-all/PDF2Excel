@@ -1,0 +1,14 @@
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\bin\Release\PDF2Excel.exe.config
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\bin\Release\PDF2Excel.exe
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\bin\Release\PDF2Excel.pdb
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\bin\Release\itextsharp.dll
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\bin\Release\itextsharp.xml
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\obj\Release\PDF2Excel.csprojAssemblyReference.cache
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\obj\Release\PDF2Excel.csproj.ResolveComReference.cache
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\obj\Release\PDF2Excel.Form1.resources
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\obj\Release\PDF2Excel.Properties.Resources.resources
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\obj\Release\PDF2Excel.csproj.GenerateResource.cache
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\obj\Release\PDF2Excel.csproj.CoreCompileInputs.cache
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\obj\Release\PDF2Excel.csproj.CopyComplete
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\obj\Release\PDF2Excel.exe
+E:\____WorkSpace1\PDF2Excel\PDF2Excel\obj\Release\PDF2Excel.pdb
